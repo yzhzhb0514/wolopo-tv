@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260711225017 +0800">
+<tv date="20260712111018 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -3884,5 +3884,134 @@
 	</programme>
 	<programme channel="金鹰纪实" start="20260712235000 +0800" stop="20260713000000 +0800">
 		<title lang="zh">看世界</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713000000 +0800" stop="20260713001000 +0800">
+		<title lang="zh">平民英雄</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713001000 +0800" stop="20260713004000 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713004000 +0800" stop="20260713013000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713013000 +0800" stop="20260713020000 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713020000 +0800" stop="20260713022500 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713022500 +0800" stop="20260713030500 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713030500 +0800" stop="20260713033000 +0800">
+		<title lang="zh">平民英雄</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713033000 +0800" stop="20260713040000 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713040000 +0800" stop="20260713044000 +0800">
+		<title lang="zh">寰宇地理</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713044000 +0800" stop="20260713050000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713050000 +0800" stop="20260713054000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713054000 +0800" stop="20260713063000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713063000 +0800" stop="20260713070000 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713070000 +0800" stop="20260713075000 +0800">
+		<title lang="zh">寰宇地理</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713075000 +0800" stop="20260713083500 +0800">
+		<title lang="zh">历史片场(11)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713083500 +0800" stop="20260713091500 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713091500 +0800" stop="20260713101000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713101000 +0800" stop="20260713110000 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713110000 +0800" stop="20260713112500 +0800">
+		<title lang="zh">纪录时间(6)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713112500 +0800" stop="20260713120000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713120000 +0800" stop="20260713122200 +0800">
+		<title lang="zh">历史片场(上):典籍里的湖湘名人</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713122200 +0800" stop="20260713122500 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713122500 +0800" stop="20260713125000 +0800">
+		<title lang="zh">历史片场(下):毛泽东书信故事(2)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713125000 +0800" stop="20260713133500 +0800">
+		<title lang="zh">寰宇地理(6)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713133500 +0800" stop="20260713142000 +0800">
+		<title lang="zh">点赞中国(6)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713142000 +0800" stop="20260713150500 +0800">
+		<title lang="zh">探索(6)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713150500 +0800" stop="20260713153500 +0800">
+		<title lang="zh">纪实真好看(6)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713153500 +0800" stop="20260713160000 +0800">
+		<title lang="zh">平民英雄</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713160000 +0800" stop="20260713163000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713163000 +0800" stop="20260713170000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713170000 +0800" stop="20260713175000 +0800">
+		<title lang="zh">历史片场(6)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713175000 +0800" stop="20260713182500 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713182500 +0800" stop="20260713191000 +0800">
+		<title lang="zh">寰宇地理:埃及失落宝藏</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713191000 +0800" stop="20260713191500 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713191500 +0800" stop="20260713194500 +0800">
+		<title lang="zh">纪录时间:曹雪芹与红楼梦(2)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713194500 +0800" stop="20260713203000 +0800">
+		<title lang="zh">点赞中国:味道中山(1)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713203000 +0800" stop="20260713210200 +0800">
+		<title lang="zh">新闻大求真</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713210200 +0800" stop="20260713215000 +0800">
+		<title lang="zh">探索:深水谜团-寻找诺亚方舟</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713215000 +0800" stop="20260713215500 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713215500 +0800" stop="20260713224500 +0800">
+		<title lang="zh">历史片场:海底大揭秘</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713224500 +0800" stop="20260713231500 +0800">
+		<title lang="zh">纪实真好看:暗藏玄机(1)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713231500 +0800" stop="20260713234500 +0800">
+		<title lang="zh">传奇:探秘古宅(下)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20260713234500 +0800" stop="20260714000000 +0800">
+		<title lang="zh">新闻大求真</title>
 	</programme>
 </tv>
