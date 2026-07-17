@@ -1,24 +1,18 @@
 🕘️更新时间,#genre#
-2026-07-17 06:57:10,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/698607.ts
+2026-07-17 19:23:12,http://demo.medrun.cn:4022/rtp/233.18.204.68:5140
 
 央视频道,#genre#
-CCTV-1,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/698607.ts
 CCTV-2,http://demo.medrun.cn:4022/rtp/233.18.204.68:5140
 CCTV-3,http://demo.medrun.cn:4022/rtp/233.18.204.69:5140
-CCTV-4,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/26181.ts
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1784246400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-a740ac92b881b83d5780b5ebc5941a10&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1784286000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-644733118b70d819a7e1512f5da53352&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1784246400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-e05ffeb419787952002b99cdce2040d8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1784286000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b4c47c9b48328ae0d4329b75f175446e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1784332800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1f6c18588a391e749b10db985cd21620&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1784332800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0240f422767495f3b4be3b54c6f0496a&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://demo.medrun.cn:4022/rtp/233.18.204.71:5140
 CCTV-5+,http://home.scanflove.com:7788/rtp/235.254.199.121:7980
-CCTV-6,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/698613.ts
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-7,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/698614.ts
 CCTV-8,http://demo.medrun.cn:4022/rtp/233.18.204.74:5140
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=46624843a100cf6531d673b59c64c502
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7b0844b76d8c951adb5f87864280aa1c
+CCTV-9,http://182.37.41.46:8154/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
-CCTV-10,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/698617.ts
 CCTV-10,https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
@@ -27,31 +21,23 @@ CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
 CCTV-13,http://demo.medrun.cn:4022/rtp/233.18.204.79:5140
 CCTV-14,http://demo.medrun.cn:4022/rtp/233.18.204.80:5140
-CCTV-15,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/698622.ts
 CCTV-15,http://demo.medrun.cn:4022/rtp/233.18.204.81:5140
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 CCTV-16,http://demo.medrun.cn:4022/rtp/233.18.204.82:5140
 
 卫视频道,#genre#
 广东卫视,http://demo.medrun.cn:4022/rtp/233.18.204.88:5140
-浙江卫视,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/718648.ts
 浙江卫视,http://demo.medrun.cn:4022/rtp/233.18.204.84:5140
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-湖南卫视,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/718647.ts
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73879.ts
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/718646.ts
-安徽卫视,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/718672.ts
-安徽卫视,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73882.ts
+安徽卫视,http://182.37.41.46:8154/tsfile/live/0130_1.m3u8?key=txiptv
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://123.207.224.130:123/henan/henan.php
 河南卫视,http://123.207.224.130:123/henan/henan.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://demo.medrun.cn:4022/rtp/233.18.204.105:5140
-江苏卫视,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73878.ts
-江苏卫视,http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/718649.ts
 江苏卫视,http://demo.medrun.cn:4022/rtp/233.18.204.85:5140
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://demo.medrun.cn:4022/rtp/233.18.204.91:5140
