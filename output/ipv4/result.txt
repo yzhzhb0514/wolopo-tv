@@ -1,17 +1,23 @@
 🕘️更新时间,#genre#
-2026-07-18 06:52:21,http://demo.medrun.cn:4022/rtp/233.18.204.68:5140
+2026-07-18 19:06:03,http://demo.medrun.cn:4022/rtp/233.18.204.68:5140
 
 央视频道,#genre#
 CCTV-2,http://demo.medrun.cn:4022/rtp/233.18.204.68:5140
+CCTV-2,http://125.42.148.25:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://204.12.221.218:8181/3m1080p/cctv3.m3u8
 CCTV-3,http://demo.medrun.cn:4022/rtp/233.18.204.69:5140
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1784372400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-23c0bc4a2d6df33ab81a350e3f8dc018&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1784332800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1f6c18588a391e749b10db985cd21620&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1784332800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0240f422767495f3b4be3b54c6f0496a&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1784404800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-c6209f29c23e7b6b32467789cf13b164&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1784404800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-79a4a9b4071d3ce50a28d212a23fe109&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,http://125.42.148.232:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://demo.medrun.cn:4022/rtp/233.18.204.71:5140
+CCTV-5,http://125.42.148.25:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://125.42.148.232:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://home.scanflove.com:7788/rtp/235.254.199.121:7980
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
+CCTV-7,http://125.42.148.114:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://125.42.148.232:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://demo.medrun.cn:4022/rtp/233.18.204.74:5140
-CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5cb43a40a1fee1122a9964ea007a6bb4
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d010ed9503a5915a7c46ec8779fb7d0c
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
@@ -20,25 +26,37 @@ CCTV-11,http://www.negative.top:50000/rtp/233.50.200.132:5140
 CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
 CCTV-13,http://demo.medrun.cn:4022/rtp/233.18.204.79:5140
+CCTV-13,http://125.42.148.25:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://demo.medrun.cn:4022/rtp/233.18.204.80:5140
+CCTV-14,http://125.42.148.25:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://125.42.148.232:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://demo.medrun.cn:4022/rtp/233.18.204.81:5140
+CCTV-15,http://125.42.148.25:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://125.42.148.232:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 CCTV-16,http://demo.medrun.cn:4022/rtp/233.18.204.82:5140
 
 卫视频道,#genre#
 广东卫视,http://demo.medrun.cn:4022/rtp/233.18.204.88:5140
+广东卫视,http://125.42.148.232:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://125.42.148.25:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://demo.medrun.cn:4022/rtp/233.18.204.84:5140
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+安徽卫视,http://125.42.148.232:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-河南卫视,http://123.207.224.130:123/henan/henan.php
+东南卫视,http://125.42.148.232:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://123.207.224.130:123/henan/henan.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://123.207.224.130:123/henan/henan.php
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://demo.medrun.cn:4022/rtp/233.18.204.105:5140
+河南卫视,http://125.42.148.25:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://125.42.148.232:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://demo.medrun.cn:4022/rtp/233.18.204.85:5140
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://demo.medrun.cn:4022/rtp/233.18.204.91:5140
 四川卫视,http://demo.medrun.cn:4022/rtp/233.18.204.99:5140
 天津卫视,http://demo.medrun.cn:4022/rtp/233.18.204.97:5140
+天津卫视,http://125.42.148.232:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
